@@ -1,5 +1,8 @@
 # Windows Login Phishing page
 This is a phishing page for windows login screen. That's it.
+## Use this link to preview without downloading/cloning. 
+https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish/blob/main/index.html
+
 
 # How to use ?
 For now,  
@@ -24,5 +27,4 @@ When the user gets phished to enter the username and password. You will see a GE
 - JS  (for functionality)
 - http.server module->Python (for hosting)
 
-## Use this link to preview without downloading/cloning.  
-https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish/blob/main/index.html
+
