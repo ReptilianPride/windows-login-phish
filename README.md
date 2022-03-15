@@ -12,13 +12,16 @@ and port number of the hosting(attacker) machine known to you.
 - Example `192.168.1.102:8000` assuming Host(attacker) machine IP address is 192.168.1.102 and PORT is 8000.  
 - When the user gets phished to enter the username and password. You will see a GET request being made in the hosting(attacker) machine. Within that GET request you will see the username and password.
 
-### Screenshots
-#### Victim Screen 1
+## Screenshots
+### Victim Screen
+<p float='left'>
 <img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/cover(victim).png" width="500px"></img>
-#### Victim Screen 2
 <img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/login(victim).png" width="500px"></img>
-#### Attacker Screen
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/attacker-screen.jpg" width="500px"></img>
+</p>
+
+### Attacker Screen
+<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/attacker-screen-new.jpg"></img>
+<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/attacker-screen-zoomed.jpg"></img>
 
 
 # What it is made and used with so far?
