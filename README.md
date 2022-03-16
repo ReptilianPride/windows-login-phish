@@ -3,6 +3,8 @@ This is a phishing page for windows login screen. That's it.
 ## Use this link to preview without downloading/cloning. 
 https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish/blob/main/index.html
 
+## Issues/Bugs:
+- AttackerSetup.py has a bug where the page does not load and does not close on pressing ctrl+c.
 
 # How to use ?
 For now,  
