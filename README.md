@@ -5,8 +5,8 @@ https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish
 
 ## Issues/Bugs:
 - AttackerSetup.py has a bug where ctrl+c does not end program (you can close using the program window).
-- Mysterious GET request done an extra time.
-- Make force fullscreen (UNLIKELY FIX but will look into)
+- Mysterious duplicate GET request.
+- Make force fullscreen (UNLIKELY FIX but will look into).
 
 # How to use ?
 For now,  
