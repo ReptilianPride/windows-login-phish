@@ -4,10 +4,8 @@ This is a phishing page for windows login screen. That's it.
 https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish/blob/main/index.html
 
 ## Issues/Bugs:
-- AttackerSetup.py has a bug where app sometimes does not close on pressing ctrl+c (you can close the window to force close the program).
+- AttackerSetup.py has a bug where ctrl+c does not end program (you can close using the program window).
 - Mysterious GET request done an extra time.
-- Need to make focus element on text field on start
-- Make the slideup functional with spacebar.
 - Make force fullscreen (UNLIKELY FIX but will look into)
 
 # How to use ?
