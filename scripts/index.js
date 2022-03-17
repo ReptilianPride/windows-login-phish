@@ -13,7 +13,7 @@ timeContainer.innerHTML=getTimeString();
 
 //slide up animaton onclick
 loginscreen.addEventListener('click',e=>handleSlideUp(e));
-// loginscreen.addEventListener('keyup',e=>handleSlideUp(e));//for working with spacebar (NOT WORKING)
+document.addEventListener('keyup',e=>spaceSlideUp(e));//for working with spacebar (NOT WORKING)
 
 //login events
 document.addEventListener("keyup",e=>handleSubmit(e)); //for pressing enter button
