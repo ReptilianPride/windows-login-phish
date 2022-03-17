@@ -1,0 +1,2 @@
+Screenshots/
+setup-src-code/
