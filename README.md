@@ -36,7 +36,7 @@ As per your OS, either Windows or Linux, execute the appropriate AttackerSetup p
 - HTML  (for webpage)
 - CSS (for styles)
 - JS  (for functionality)
-- http.server module->Python (for hosting)
+- Python (for UI)
 
 
 
