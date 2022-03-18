@@ -12,12 +12,14 @@ https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish
 Within the directory there are 2 files by the name of:
   - AttackersSetup(windows).exe
   - AttackerSetup4linux  
-As per your OS, either Windows or Linux, execute the appropriate AttackerSetup program, that's it.
+  
+As per your OS, either **Windows or Linux**, execute the appropriate AttackerSetup program, that's it.
+Note: *Tested and works on on both windows and linux platform.*
 
 #### Scenario would be like...
-- Run the setup and the program will automatically host the required files.
-- Once the program shows the URL in use and `[READY!]`, then secretly go to the victim's computer when he is distracted.
-- Open victim's browser and put in the URL(shown in the setup). Viola! Now the lockscreen page will appear.
+- Run the **setup** and the program will **automatically** host the required files.
+- Once the program shows the active URL and `[READY!]`, then secretly go to the victim's computer when he is distracted.
+- Open **victim's browser** and put in the **URL(shown in the setup)** and use **F11 for fullscreen**. Viola! Now the lockscreen page will appear.
 - Go back to your setup program and just wait for the victim to put in his credentials. When he does, the username and password will be displayed in the console.  
 
 ## Screenshots
