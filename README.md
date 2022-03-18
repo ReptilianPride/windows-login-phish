@@ -20,7 +20,8 @@ Note: *Tested and works on on both windows and linux platform.*
 - Run the **setup** and the program will **automatically** host the required files.
 - Once the program shows the active URL and `[READY!]`, then secretly go to the victim's computer when he is distracted.
 - Open **victim's browser** and put in the **URL(shown in the setup)** and use **F11 for fullscreen**. Viola! Now the lockscreen page will appear.
-- Go back to your setup program and just wait for the victim to put in his credentials. When he does, the username and password will be displayed in the console.  
+- Go back to your setup program and just wait for the victim to put in his credentials. When he does, the username and password will be displayed in the console. 
+- Note: *logs.txt file will be made in the same directory and the data from console will be saved as well.*  
 
 ## Screenshots
 ### Victim Screen
