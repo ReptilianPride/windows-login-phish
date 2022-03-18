@@ -9,12 +9,16 @@ https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish
 - Make force fullscreen (UNLIKELY FIX but will look into).
 
 # How to use ?
-For now,  
-- Host the root directory using the command `python3 -m http.server` (tested on linux) and keep the IP address
-and port number of the hosting(attacker) machine known to you.  
-- In the victim device open their browser. In the url bar type the address of the hosting(attacker) machine along with the port.  
-- Example `192.168.1.102:8000` assuming Host(attacker) machine IP address is 192.168.1.102 and PORT is 8000.  
-- When the user gets phished to enter the username and password. You will see a GET request being made in the hosting(attacker) machine. Within that GET request you will see the username and password.
+Within the directory there are 2 files by the name of:
+  - AttackersSetup(windows).exe
+  - AttackerSetup4linux
+As per your OS, either Windows or Linux, execute the appropriate AttackerSetup program.
+
+## Scenario would be like...
+- Run the setup and the program will automatically host the required files.
+- Once the program shows the URL in use and `[READY!]`, then secretly go to the victim's computer when he is distracted.
+- Open victim's browser and put in the URL(shown in the setup). Viola! Now the lockscreen page will appear.
+- Go back to your setup program and just wait for the victim to put in his credentials. When he does, the username and password will be displayed in the console.
 
 ## Screenshots
 ### Victim Screen
