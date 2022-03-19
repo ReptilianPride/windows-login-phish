@@ -11,7 +11,7 @@ https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish
 # How to use ?
 Within the directory there are 2 files by the name of:
   - AttackersSetup(windows).exe
-  - AttackerSetup4linux  
+  - AttackerSetup4linux (see images below)  
   
 As per your OS, either **Windows or Linux**, execute the appropriate AttackerSetup program, that's it.
 Note: *Tested and works on on both windows and linux platform.*
@@ -26,8 +26,8 @@ Note: *Tested and works on on both windows and linux platform.*
 ## Screenshots
 ### Victim Screen
 <p float='left'>
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/cover(victim).png" width="500px"></img>
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/login(victim).png" width="500px"></img>
+<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/cover(victim).png" width="300px"></img>
+<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/login(victim).png" width="300px"></img>
 </p>
 
 ### Attacker Screen
@@ -36,13 +36,10 @@ Note: *Tested and works on on both windows and linux platform.*
 <img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/AttackerSetup.png" width="550px"></img>
 
 #### Running the setup(linux)
- - For windows, you can directly run the .exe file
-<p float='left'>
 <img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/AttackerScreen-o1.png" width="400px"></img>
-(OR)
+<p>(OR)</p>
 <img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/AttackerScreen--o2.png" width="400px"></img>
-</p>
-
+ - For windows, you can directly run the .exe file
 
 
 
