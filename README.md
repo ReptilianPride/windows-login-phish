@@ -26,8 +26,8 @@ Note: *Tested and works on on both windows and linux platform.*
 ## Screenshots
 ### Victim Screen
 <p float='left'>
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/cover(victim).png" width="350px"></img>
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/login(victim).png" width="350px"></img>
+<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/cover(victim).png" width="400px"></img>
+<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/login(victim).png" width="400px"></img>
 </p>
 
 ### Attacker Screen
