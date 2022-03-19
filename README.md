@@ -29,15 +29,20 @@ Note: *Tested and works on on both windows and linux platform.*
 <img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/cover(victim).png" width="500px"></img>
 <img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/login(victim).png" width="500px"></img>
 </p>
+
 ### Attacker Screen
+
+#### AttackerSetup Program outputs
+<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/AttackerSetup.png" width="550px"></img>
+
 #### Running the setup(linux)
+ - For windows, you can directly run the .exe file
 <p float='left'>
 <img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/AttackerScreen-o1.png" width="400px"></img>
 (OR)
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/AttackerScreen-o2.png" width="600px"></img>
+<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/AttackerScreen--o2.png" width="400px"></img>
 </p>
-#### AttackerSetup Program outputs
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/AttackerSetup.png" width="500px"></img>
+
 
 
 
