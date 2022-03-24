@@ -4,7 +4,6 @@ This is a phishing page for windows login screen. That's it.
 https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish/blob/main/index.html
 
 ## Issues/Bugs:
-- AttackerSetup.py has a bug where ctrl+c does not end program (you can close using the program window).
 - Mysterious duplicate GET request.
 - Make force fullscreen (UNLIKELY FIX but will look into).
 
