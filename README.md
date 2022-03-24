@@ -35,7 +35,7 @@ Note: *Tested and works on on both windows and linux platform.*
 #### AttackerSetup Program outputs
 <img src="./docs/Screenshots/AttackerSetup.png" width="550px"></img>
 
-#### Running the setup(linux)
+#### Running the setup(linux)-[to make it executable file]
 <img src="./docs/Screenshots/AttackerScreen-o1.png" width="400px"></img>
 <p>(OR)</p>
 <img src="./docs/Screenshots/AttackerScreen--o2.png" width="400px"></img>
