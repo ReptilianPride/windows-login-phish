@@ -26,19 +26,19 @@ Note: *Tested and works on on both windows and linux platform.*
 ## Screenshots
 ### Victim Screen
 <p float='left'>
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/cover(victim).png" width="400px"></img>
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/login(victim).png" width="400px"></img>
+<img src="./docs/Screenshots/cover(victim).png" width="400px"></img>
+<img src="./docs/Screenshots/login(victim).png" width="400px"></img>
 </p>
 
 ### Attacker Screen
 
 #### AttackerSetup Program outputs
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/AttackerSetup.png" width="550px"></img>
+<img src="./docs/Screenshots/AttackerSetup.png" width="550px"></img>
 
 #### Running the setup(linux)
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/AttackerScreen-o1.png" width="400px"></img>
+<img src="./docs/Screenshots/AttackerScreen-o1.png" width="400px"></img>
 <p>(OR)</p>
-<img src="https://github.com/CipherKill/windows-login-phish/blob/main/Screenshots/AttackerScreen--o2.png" width="400px"></img>
+<img src="./docs/Screenshots/AttackerScreen--o2.png" width="400px"></img>
  - For windows, you can directly run the .exe file
 
 
