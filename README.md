@@ -3,6 +3,12 @@ This is a phishing page for windows login screen. That's it.
 ## Use this link to preview without downloading/cloning. 
 https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish/blob/main/docs/preview/index.html
 
+<p float='left'>
+<img src="./docs/Screenshots/cover(victim).png" width="300px"></img>
+<img src="./docs/Screenshots/login(victim).png" width="300px"></img>
+</p>
+
+
 ## Issues/Bugs:
 - Mysterious duplicate GET request.
 - Make force fullscreen (UNLIKELY FIX but will look into).
