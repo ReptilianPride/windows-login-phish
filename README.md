@@ -9,10 +9,6 @@ https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish
 </p>
 
 
-## Issues/Bugs:
-- Mysterious duplicate GET request.
-- Make force fullscreen (UNLIKELY FIX but will look into).
-
 # How to use ?
 Within the directory there are 2 files by the name of:
   - AttackersSetup(windows).exe
